@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Balanzar Herrera</h1>
 <h3 align="center">A passionate full-stack developer from United States</h3>
 
-- 🔭 I’m currently working on **Blockchain project**
-
 - 🌱 I’m currently learning **Blockchain and programming frameworks.**
 
 - 🤝 I’m looking for help with **Blockchain**
