@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain and programming frameworks.**
 
-- 🤝 I’m looking for help with **Blockchain**
-
-- 💬 Ask me about **React Js, AWS Services and Databases.**
+- 💬 Ask me about **React Js, .NET Framework, AWS Services, Azure Cloud Services and Databases.**
 
 - 📫 How to reach me **omarbalanzar113@gmail.com**
 
